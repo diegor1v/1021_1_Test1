@@ -1,3 +1,4 @@
 void star(){
 Debug.Log("Ali");
+Debug.Log("ali mejia cortes");
 }
